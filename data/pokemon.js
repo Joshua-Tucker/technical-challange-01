@@ -1,4 +1,4 @@
-export const pokemonArray = [
+const pokemonArray = [
   {
     id: 1,
     name: "bulbasaur",
